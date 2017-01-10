@@ -1,0 +1,219 @@
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\LTHD.Web.dll.config
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\LTHD.Web.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\LTHD.Web.pdb
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\EntityFramework.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\EntityFramework.SqlServer.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\LTHD.DataModel.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\LTHD.Domain.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\LTHD.Infrastructure.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Newtonsoft.Json.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Ninject.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Ninject.Web.Common.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Ninject.Web.Mvc.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Owin.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\System.Net.Http.Formatting.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\System.Web.Helpers.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\System.Web.Http.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\System.Web.Http.Owin.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\System.Web.Http.WebHost.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\System.Web.Mvc.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\System.Web.Razor.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\System.Web.WebPages.Deployment.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\System.Web.WebPages.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\System.Web.WebPages.Razor.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\WebActivator.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\LTHD.Mapping.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\LTHD.Infrastructure.pdb
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\LTHD.DataModel.pdb
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\LTHD.Domain.pdb
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\EntityFramework.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\EntityFramework.SqlServer.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Newtonsoft.Json.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Ninject.pdb
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Ninject.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Ninject.Web.Common.pdb
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Ninject.Web.Common.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Ninject.Web.Mvc.pdb
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\Ninject.Web.Mvc.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\System.Net.Http.Formatting.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\System.Web.Helpers.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\System.Web.Http.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\System.Web.Http.Owin.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\System.Web.Http.WebHost.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\System.Web.Mvc.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\System.Web.Razor.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\System.Web.WebPages.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\System.Web.WebPages.Deployment.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\System.Web.WebPages.Razor.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\bin\LTHD.Mapping.pdb
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\obj\Debug\LTHD.Web.csprojResolveAssemblyReference.cache
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\obj\Debug\LTHD.Web.Migrations.InitialCreate.resources
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\obj\Debug\LTHD.Web.Migrations.Initial.resources
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\obj\Debug\LTHD.Web.csproj.GenerateResource.Cache
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\obj\Debug\LTHD.Web.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Web\obj\Debug\LTHD.Web.pdb
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\LTHD.Web.dll.config
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\LTHD.Web.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\LTHD.Web.pdb
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\EntityFramework.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\LTHD.DataModel.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\LTHD.Domain.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\LTHD.Infrastructure.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Newtonsoft.Json.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Ninject.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Ninject.Web.Common.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Owin.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\System.Web.Helpers.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\System.Web.Http.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\System.Web.Http.Owin.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\System.Web.Mvc.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\System.Web.Razor.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\System.Web.WebPages.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\WebActivator.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\LTHD.Mapping.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\LTHD.Infrastructure.pdb
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\LTHD.DataModel.pdb
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\LTHD.Domain.pdb
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\EntityFramework.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Newtonsoft.Json.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Ninject.pdb
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Ninject.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Ninject.Web.Common.pdb
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Ninject.Web.Common.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Ninject.Web.Mvc.pdb
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\System.Web.Helpers.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\System.Web.Http.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\System.Web.Http.Owin.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\System.Web.Mvc.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\System.Web.Razor.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\System.Web.WebPages.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\bin\LTHD.Mapping.pdb
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\obj\Debug\LTHD.Web.csprojResolveAssemblyReference.cache
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\obj\Debug\LTHD.Web.Migrations.InitialCreate.resources
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\obj\Debug\LTHD.Web.Migrations.Initial.resources
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\obj\Debug\LTHD.Web.csproj.GenerateResource.Cache
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\obj\Debug\LTHD.Web.dll
+C:\Users\ad131\Desktop\Công nghệ mới trong phát triển phần mềm\LTHD.Web\LTHD.Web\obj\Debug\LTHD.Web.pdb
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\LTHD.Web.dll.config
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\LTHD.Web.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\LTHD.Web.pdb
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\EntityFramework.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\LTHD.DataModel.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\LTHD.Domain.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\LTHD.Infrastructure.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Newtonsoft.Json.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Ninject.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Ninject.Web.Common.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Owin.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\System.Web.Helpers.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\System.Web.Http.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\System.Web.Http.Owin.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\System.Web.Mvc.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\System.Web.Razor.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\System.Web.WebPages.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\WebActivator.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\LTHD.Mapping.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\LTHD.Infrastructure.pdb
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\LTHD.DataModel.pdb
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\LTHD.Domain.pdb
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\EntityFramework.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Newtonsoft.Json.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Ninject.pdb
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Ninject.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Ninject.Web.Common.pdb
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Ninject.Web.Common.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Ninject.Web.Mvc.pdb
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\System.Web.Helpers.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\System.Web.Http.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\System.Web.Http.Owin.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\System.Web.Mvc.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\System.Web.Razor.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\System.Web.WebPages.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\bin\LTHD.Mapping.pdb
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\obj\Debug\LTHD.Web.csprojResolveAssemblyReference.cache
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\obj\Debug\LTHD.Web.Migrations.InitialCreate.resources
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\obj\Debug\LTHD.Web.Migrations.Initial.resources
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\obj\Debug\LTHD.Web.csproj.GenerateResource.Cache
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\obj\Debug\LTHD.Web.dll
+C:\Users\ad131\OneDrive\Documents\prepare-for-bad-situation\LTHD.Web\LTHD.Web\obj\Debug\LTHD.Web.pdb

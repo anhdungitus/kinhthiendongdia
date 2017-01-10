@@ -1,0 +1,14 @@
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.DataModel\bin\Debug\LTHD.DataModel.dll.config
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.DataModel\bin\Debug\LTHD.DataModel.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.DataModel\bin\Debug\LTHD.DataModel.pdb
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.DataModel\bin\Debug\EntityFramework.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.DataModel\bin\Debug\LTHD.Domain.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.DataModel\bin\Debug\LTHD.Mapping.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.DataModel\bin\Debug\LTHD.Domain.pdb
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.DataModel\bin\Debug\LTHD.Mapping.pdb
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.DataModel\bin\Debug\EntityFramework.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.DataModel\obj\Debug\LTHD.DataModel.csprojResolveAssemblyReference.cache
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.DataModel\obj\Debug\LTHD.DataModel.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.DataModel\obj\Debug\LTHD.DataModel.pdb

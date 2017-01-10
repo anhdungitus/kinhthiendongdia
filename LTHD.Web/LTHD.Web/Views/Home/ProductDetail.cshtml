@@ -1,0 +1,92 @@
+﻿<div id="productdetail" data-bind="foreach: model.products()">
+    <div class="hidden" data-bind="attr: {id: 'productDetail' + $data.ProductId}">
+        <div class=" col-md-4">
+            <img width="300" data-bind="attr: {src: $data.ImageUrl}" />
+        </div>
+        <div class="col-md-8">
+            <div class="col-md-12">
+                <h1 data-bind="text: $data.ProductName"></h1>
+            </div>
+            <div class="col-md-12">
+                <span class="label label-primary">Hcmus</span>
+                <span class="monospaced">No. 1960140180</span>
+            </div>
+            <div class="col-md-12">
+                <p class="description" data-bind="text: $data.Description"></p>
+            </div>
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="col-md-3">
+                        <span class="sr-only">Four out of Five Stars</span>
+                        <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                        <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                        <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                        <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                        <span class="glyphicon glyphicon-star-empty" aria-hidden="true"></span>
+                        <span class="label label-success">61</span>
+                    </div>
+                    <div class="col-md-6">
+                        <span class="monospaced">Write a Review</span>
+                    </div>
+                </div><!-- end row -->
+            </div>
+            <div style="margin-top:5px;" class="col-md-12">
+                <span class="label label-primary" data-bind="text: '₫' + $data.Price"></span>
+            </div>
+            <div style="margin-top:5px;" class="col-md-12">
+                <button style="width:229px;" class="btn btn-danger pull-left" data-bind="click: addToCart
+    ">
+                    &nbsp;&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-shopping-cart"></span> Thêm vào giỏ hàng
+                </button>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <ul class="nav nav-tabs" role="tablist">
+                <li role="presentation" class="active">
+                    <a href="#description"
+                       aria-controls="description"
+                       role="tab"
+                       data-toggle="tab">Mô tả</a>
+                </li>
+                <li role="presentation">
+                    <a href="#features"
+                       aria-controls="features"
+                       role="tab"
+                       data-toggle="tab">Tính năng/đặc điểm</a>
+                </li>
+                <li role="presentation">
+                    <a href="#notes"
+                       aria-controls="notes"
+                       role="tab"
+                       data-toggle="tab">Chú ý</a>
+                </li>
+                <li role="presentation">
+                    <a href="#reviews"
+                       aria-controls="reviews"
+                       role="tab"
+                       data-toggle="tab">Nhận xét</a>
+                </li>
+            </ul>
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div role="tabpanel" class="tab-pane active" id="description">
+                    <p class="description" data-bind="text: $data.Description">
+                    </p>
+                </div>
+                <div role="tabpanel" class="tab-pane top-10" id="features">
+                    ...
+                </div>
+                <div role="tabpanel" class="tab-pane" id="notes">
+                    ...
+                </div>
+                <div role="tabpanel" class="tab-pane" id="reviews">
+                    ...
+                </div>
+            </div>
+            <h4 style="margin-top:50px;">Bình luận về chất lượng của các sản phẩm</h4>
+            @*<div class="fb-comments" data-bind="attr: {id: 'face' +  $data.ProductId,'data-href': 'https://localhost:44302/' + $data.ProductId}" data-width="930" data-numposts="5"></div>*@
+        </div>
+    </div>
+</div>
+<div class="fb-comments" data-href = "http://tokolaptrinhhiendai.apphb.com/" data-width="930" data-numposts="5"></div>
+

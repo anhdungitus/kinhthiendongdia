@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <script src="~/Scripts/jquery-2.1.0.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/knockout-3.1.0.js"></script>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+    <link href="~/Content/font-awesome.css" rel="stylesheet" />
+    <link href="~/Content/app.css" rel="stylesheet" />
+    <link href='https://fonts.googleapis.com/css?family=Ubuntu+Mono' rel='stylesheet' type='text/css'>
+    <script src="~/Scripts/lthdScript/lthd.jQueryExtension.js"></script>
+    <script src="~/Scripts/lthdScript/lthd.ajax.js"></script>
+    <script src="~/Scripts/lthdScript/lthd.model.js"></script>
+    <script src="~/Scripts/lthdScript/Controllers/productsController.js"></script>
+    <script src="~/Scripts/lthdScript/Controllers/ordersController.js"></script>
+    <script src="~/Scripts/lthdScript/Controllers/categoryController.js"></script>
+    <script src="~/Scripts/lthdScript/Controllers/authenticateController.js"></script>
+    <title>Electronic Store</title>
+    @RenderSection("Scripts", false)
+</head>
+
+<body>
+    <div id="fb-root"></div>
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=1635800973354460";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <div class="wrapper">
+        @RenderBody()
+        
+        <div class="footer container-wrapper">
+            <div class="footer__custom-content container">
+                <section class="shopee-footer-section">
+                    <h2 class="shopee-footer-section__heading">TOKO VIỆT NAM - MUA VÀ BÁN CÁC SẢN PHẨM ĐIỆN TỬ</h2>
+                    <p class="shopee-footer-section__content">
+                        Toko hiện đang là dịch vụ mua hàng đầu tại Việt Nam. Đến với Toko, bạn sẽ có những trải nghiệm đầy
+                        thú vị và an toàn khi mua hàng trên website trực tuyến. Hãy trở thành một trong hàng triệu người dùng Toko để nhận ngay hàng ngàn
+                        ưu đãi hấp dẫn! Với chính sách Toko Đảm Bảo, bạn sẽ nhận được hàng, hoặc được hoàn lại tiền! Hãy gia nhập cộng đồng Toko và trải nghiệm mua bán ngay hôm nay!
+                    </p>
+                </section>
+                <section class="shopee-footer-section">
+                    <h2 class="shopee-footer-section__heading">THỎA THÍCH LỰA CHỌN SẢN PHẨM CÔNG NGHỆ</h2>
+                    <p class="shopee-footer-section__content">
+                        Hãy tham gia Toko, trang mua bán trực tuyến tiện lợi và an toàn nhất để dễ dàng tìm thấy mọi thứ bạn cần ở mức giá tốt nhất.
+                        Toko còn tích hợp các tính năng của mạng xã hội, giúp bạn liên tục cập nhập thông tin và xu hướng mới từ bạn bè và các thành viên bạn theo dõi trong cộng đồng.
+                    </p>
+                    <p class="shopee-footer-section__content">
+                        Để yên tâm mua sắm, bạn chỉ cần tham khảo thông tin “Đánh giá từ người dùng khác”
+                        và tìm được người bán hàng đáng tin cậy. Ngoài ra, chính sách Toko Đảm Bảo sẽ giúp bạn nhận được hàng, hoặc được hoàn lại tiền.
+                    </p>
+                </section>
+            </div>
+            
+            <div class="footer__block-legal-vn">
+                <div class="container">
+                    <div class="footer__policies">
+                        <div class="footer__policy-item">
+                            <a class="footer__policy-link" href="#">
+                                <div class="footer__policy-item__icon footer__policy-item__icon-privacy"></div><span>Chính sách bảo mật</span>
+                            </a>
+                        </div>
+                        <div class="footer__policy-item">
+                            <a class="footer__policy-link" href="#">
+                                <div class="footer__policy-item__icon footer__policy-item__icon-tos"></div><span>Quy chế hoạt động</span>
+                            </a>
+                        </div>
+                        <div class="footer__policy-item">
+                            <a class="footer__policy-link" href="#">
+                                <div class="footer__policy-item__icon footer__policy-item__icon-shipping"></div><span>Chính sách vận chuyển</span>
+                            </a>
+                        </div>
+                        <div class="footer__policy-item">
+                            <a class="footer__policy-link" href="#">
+                                <div class="footer__policy-item__icon footer__policy-item__icon-violation"></div><span>CHÍNH SÁCH TRẢ HÀNG VÀ HOÀN TIỀN</span>
+                            </a>
+                        </div>
+                    </div><div class="block-legal-vn__detail--company-name">
+                        <div class="block-legal-vn__image"></div>
+                        <div style="text-align:center;">Công ty TNHH Toko</div>
+                    </div>
+                    <div class="block-legal-vn__detail">Địa chỉ: Tầng 1, tòa nhà Khoa học tự nhiên, số 444, phố Nguyễn Văn Cừ, quận 5, TpHCM. Tổng đài hỗ trợ: 0962940509 - Email: 1312092@student.hcmus.edu.vn</div>
+                    <div class="block-legal-vn__detail">Mã số doanh nghiệp: 999999999 do Sở Kế hoạch &amp; Đầu tư tự nhiên  cấp lần đầu ngày 24/8/1995</div>
+                    <div class="block-legal-vn__detail">© 2099 - Bản quyền thuộc về Công ty TNHH Toko</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

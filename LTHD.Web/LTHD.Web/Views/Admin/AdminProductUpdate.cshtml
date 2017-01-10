@@ -1,0 +1,41 @@
+﻿<div class="panel panel-primary" style="width:80%;">
+    <div class="panel-heading">
+        <h2>Cập nhật sản phẩm</h2>
+    </div>
+    <div class="panel-body">
+    
+        <table style="width:100%;">
+            <tr>
+                <td style="width:20%;"><label>Tên sản phẩm</label></td>
+                <td><div class="form-group"><input id="productName" class="form-control" data-bind="value: adminModel.udProduct.ProductName" /></div></td>
+            </tr>
+            <tr>
+                <td><label>Loại</label></td>
+                <td><div class="form-group">
+                    <select id="categoryName" class="form-control" data-bind="options: model.categories, optionsText: 'CategoryName', optionsValue : 'CategoryId', value: adminModel.udProduct.CategoryId" /></select>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td><label>Mô tả về sản phẩm</label></td>
+                <td>
+                    <div class="form-group">
+                        <textarea style="height: 260px;" class="form-control" data-bind="value: adminModel.udProduct.Description" ></textarea>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td><label>Giá</label></td>
+                <td><div class="form-group"><input class="form-control" data-bind="value: adminModel.udProduct.Price" /></div></td>
+            </tr>
+            <tr>
+                <td><label>Đường dẫn ảnh</label></td>
+                <td><div class="form-group"><input class="form-control" data-bind="value: adminModel.udProduct.ImageUrl" /></div></td>
+            </tr>
+        </table>
+        <div class="text-center" style="margin: 0 auto; width: 50%;">
+            <button class="btn btn-primary" data-bind="click: updateProduct">Cập nhật</button>
+            <button class="btn btn-danger" data-bind="click: setListMode.bind($data, 'products')"> Thoát </button>
+        </div>
+    </div>
+</div>

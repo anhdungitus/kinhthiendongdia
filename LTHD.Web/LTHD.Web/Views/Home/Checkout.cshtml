@@ -1,0 +1,88 @@
+﻿@using Microsoft.AspNet.Identity
+@if (Request.IsAuthenticated)
+{   
+    <p>Nhập thông tin giao hàng</p>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="panel panel-custom-horrible">
+                <div class="panel-heading">
+                    1. Thông tin người nhận
+                </div>
+                <div class="panel-body row">
+                    <div class="col-md-3">
+                        <label style="padding-top:20px;">Họ tên</label>
+                        <label style="padding-top:16px;">Số điện thoại</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input required class="form-control" data-bind="value: model.receiverName" placeholder="Nhập họ tên của người nhận" />
+                        <input required style="margin-top:14px;" class="form-control" data-bind="value: model.receiverPhoneNumber" placeholder="Nhập số điện thoại người nhận" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6" style="height:182px;">
+            <div class="panel panel-custom-horrible">
+                <div class="panel-heading">
+                    2. Địa chỉ người nhận
+                </div>
+                <div class="panel-body">
+                    <textarea required data-bind="value: model.tradeAddress" style="height:86px;" class="form-control" placeholder="Nhập địa điểm giao nhận hàng ở đây"></textarea>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-7">
+            <div class="panel panel-custom-horrible">
+                <div class="panel-heading">
+                    3. Thông tin đơn hàng của bạn
+                </div>
+                <table class="table" border="0">
+                    <thead>
+                        <tr>
+                            <th>Số lượng</th>
+                            <th>Sản phẩm</th>
+                            <th>Giá</th>
+                            <th class="text-right">Tổng</th>
+                        </tr>
+                    </thead>
+                    <tbody data-bind="foreach: customerModel.cart()">
+                        <tr>
+                            <td data-bind="text: $data.count"></td>
+                            <td data-bind="text: $data.product.ProductName"></td>
+                            <td data-bind="text: '₫' + $data.product.Price"></td>
+                            <td class="text-right"
+                                data-bind="text: '₫' + $data.count * $data.product.Price"></td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="2"></td>
+                            <td>Total:</td>
+                            <th class="text-right"
+                                data-bind="text: customerModel.cartTotal()"></th>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+        </div>
+        <div class="col-md-5">
+            <button data-bind="click: placeOrder.bind($data)" type="button" id="btn-placeorder" class="btn btn-block btn-default btn-checkout">ĐẶT MUA</button>
+                <p class="note">(Xin vui lòng điền đầy đủ thông tin trước khi đặt hàng)</p>
+            <button class="btn btn-block btn-default btn-quayve" data-bind="click: setView.bind($data, 'list')">
+                Quay về
+            </button>
+        </div>
+    </div>
+    <script>
+        localStorage.setItem("checkout", "false");
+    </script>
+}
+else
+{
+    <script>
+        localStorage.setItem("checkout", "true");
+    </script>
+    <h2>Vui lòng đăng nhập trước khi thực hiện giao dịch</h2>
+    @Html.ActionLink("Đăng nhập", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })
+}

@@ -1,0 +1,14 @@
+﻿<div data-bind="foreach: customerModel.filteredProducts()">
+    <div class="product-item abc-testing-product-item col-md-3" style="width:200px;" data-bind="click: viewProduct">
+        <a>
+            <span class="image">
+                <img class="lazy" data-bind="attr: {src: $data.ImageUrl}"/>
+            </span>
+            <span class="title" data-bind="text: $data.ProductName"></span>
+            <p class="price-sale" data-bind="text: ('₫' +$data.Price)"></p>
+        </a>
+        <button class="btn btn-large btn-block btn-success add-to-cart" data-bind="click: viewProduct">
+            <span class="glyphicon glyphicon-shopping-cart"></span> Thêm vào giỏ hàng
+        </button>
+    </div>
+</div>

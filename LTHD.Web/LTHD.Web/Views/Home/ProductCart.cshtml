@@ -1,0 +1,64 @@
+﻿<h2 data-bind="text: 'Giỏ hàng (' +  customerModel.cartCount() + ') sản phẩm' "></h2>
+<div class="row">
+    <div class="col-lg-10">
+        <div class="row">
+            <div class="col-md-2"></div>
+            <div class="col-md-6"></div>
+            <div class="col-md-2" style="font-size: 12px"> Giá bán</div>
+            <div class="col-md-2" style="font-size: 12px"> Số lượng</div>
+        </div>
+        <div class="listProduct" data-bind="foreach: customerModel.cart()">
+            <div style=" border-bottom: 1px solid #e1e1e1;"></div>
+            &nbsp;
+            <div class=" row">
+                <div class="col-md-2">
+                    <p class="image" style="border:1px solid #e1e1e1; width: 100%; margin-right: 0; margin-left: 0">
+                        <img class="img-responsive" data-bind="attr: {src: $data.product.ImageUrl}" />
+                    </p>
+                </div>
+                <div class="col-md-6">
+                    <div>
+                        <h4 style="color:black" data-bind="text: $data.product.ProductName"></h4>
+                        <span class="img-tra-gop"><img src="https://vcdn.tikicdn.com/assets/img/icon-tra-gop.png" alt="Trả góp 0%"></span>
+                        &nbsp;
+
+                    </div>
+                    <a id="btn-xoasanpham" style="position:absolute; left:15px; margin-top:5px;"
+                       data-bind="click: removeFromCart.bind($data)">
+                        Xóa
+                    </a>
+                </div>
+                <div class="col-md-2">
+                    <p class="price" data-bind="text: '₫' + $data.product.Price"></p>
+                    <p class="price2" data-bind="text: '₫' + $data.product.Price"></p>
+                    <p class="sale">Giảm 0%</p>
+                </div>
+                <div class="col-md-2">
+                    <input disabled style="width:30%;" type="text" data-bind="value: $data.count" class="form-control" />
+                </div>
+            </div>
+            <div style="border-bottom: 1px solid #e1e1e1;"></div>
+
+        </div>
+        <div class="row" style="margin-top: 10px;">
+            <div class="col-md-8">
+                <span style="font-size: 20px;" class="pull-right label label-info">Tổng tiền</span>
+            </div>
+            <div class="col-md-2">
+                <span style="font-size: 20px;" class="label label-danger" data-bind="text: '₫' + customerModel.cartTotal()"></span>
+            </div>
+        </div>
+        <div class="text-center">
+            <div class="row" style="margin-top: 20px;">
+                <div class="col-md-12">
+                    <button style="display:inline-block;" type="button" class="btn btn-large btn-block btn-primary btn-tt pull-left" data-bind="click: setView.bind($data, 'list')">
+                        <span class="glyphicon glyphicon-arrow-left"></span> TIẾP TỤC MUA SẮM
+                    </button>
+                    <button style="display:inline-block;" type="button" class="btn btn-large btn-block btn-success btn-tt pull-right" data-bind="click: checkout, enable: customerModel.cartCount()">
+                        ĐẶT HÀNG  <span style="margin-right:15px;" class="glyphicon glyphicon-arrow-right"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

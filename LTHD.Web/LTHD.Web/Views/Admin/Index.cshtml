@@ -1,0 +1,45 @@
+﻿@section Scripts {
+    <script src="~/Scripts/adminScript/lthd.adminModel.js"></script>
+    <script src="~/Scripts/adminScript/lthd.adminController.js"></script>
+}
+<div class="panel panel-primary text-center" style=" margin: 0 auto; width: 300px;" data-bind="visible: adminModel.currentView() == 'signin'">
+    <div class="panel-heading text-left">
+        Đăng nhập
+    </div>
+    <div class="panel-body">
+        <div class="form-group">
+            <label>Tài khoản </label>
+            <input data-bind="value: model.username" />
+        </div>
+        <div class="form-group">
+            <label>Mật khẩu</label>
+            <input type="password" data-bind="value: model.password" />
+        </div>
+        <button class="btn btn-primary"
+                data-bind="click: authenticateUser">
+            Đăng nhập
+        </button>
+    </div>
+</div>
+<div data-bind="visible: adminModel.currentView() == 'productList'">
+    <div id="categories" class="col-xs-2">
+        <button class="btn btn-block btn-default btn-lg" data-bind="click: setListMode.bind($data, 'products')">
+            Sản phẩm
+        </button>
+        <button class="btn btn-block btn-default btn-lg" data-bind="click: setListMode.bind($data, 'orders')">
+            Đơn đặt hàng
+        </button>
+    </div>
+    <div class="col-xs-10" data-bind="visible: adminModel.listMode() == 'products'">
+        @Html.Partial("AdminProductList")
+    </div>
+    <div class="col-xs-10" data-bind="visible: adminModel.listMode() == 'addProduct'">
+        @Html.Partial("AdminProductAdd")
+    </div>
+    <div class="col-xs-10" data-bind="visible: adminModel.listMode() == 'updateProduct'">
+        @Html.Partial("AdminProductUpdate")
+    </div>
+    <div class="col-xs-10" data-bind="visible: adminModel.listMode() == 'orders'">
+        @Html.Partial("AdminOrderList")
+    </div>
+</div>

@@ -1,0 +1,45 @@
+﻿@model LTHD.Web.Models.LoginViewModel
+
+@{
+    ViewBag.Title = "Thông tin đăng nhập";
+}
+<div class="container">
+    <div class="col-md-6 col-md-offset-3">
+        <h3 class="sign-up-title" style="color:dimgray; text-align: center">@ViewBag.Title</h3>
+        <section id="loginForm">
+            @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+            {
+                <fieldset>
+                    @Html.AntiForgeryToken()
+                    <hr class="colorgraph">
+                    @Html.ValidationSummary(true)
+                    <div class="form-group" style="margin:0; margin-bottom:15px;">
+                        @Html.TextBoxFor(m => m.UserName, new { @class = "form-control input-lg", @placeholder = "Tên đăng nhập" })
+                        @Html.ValidationMessageFor(m => m.UserName)
+                    </div>
+                    <div class="form-group" style="margin: 0; margin-bottom: 15px;">
+                        @Html.PasswordFor(m => m.Password, new { @class = "form-control input-lg", @placeholder = "Mật khẩu" })
+                        @Html.ValidationMessageFor(m => m.Password)
+                    </div>
+                    <span class="button-checkbox">
+                        <button type="button" class="btn btn-info active" data-color="info">
+                            <i class="state-icon glyphicon glyphicon-check"></i>Remember Me</button>
+                        @Html.CheckBoxFor(m => m.RememberMe, new { @class = "form-control hidden", @checked = "checked" })
+                    </span>
+                    <hr class="colorgraph">
+                    <div class="row">
+                        <div class="col-xs-6 col-sm-6 col-md-6">
+                            <input class="btn btn-lg btn-success btn-block" type="submit" value="Đăng nhập" />
+                        </div>
+                        <div class="col-xs-6 col-sm-6 col-md-6">
+                            @Html.ActionLink("Đăng ký", "Register", "", new { @class = "btn btn-lg btn-primary btn-block" })
+                        </div>
+                    </div>
+                </fieldset>
+            }
+        </section>
+        <section id="socialLoginForm" style="margin-top:5px;">
+            @Html.Partial("_ExternalLoginsListPartial", new { Action = "ExternalLogin", ReturnUrl = ViewBag.ReturnUrl })
+        </section>
+    </div>
+</div>

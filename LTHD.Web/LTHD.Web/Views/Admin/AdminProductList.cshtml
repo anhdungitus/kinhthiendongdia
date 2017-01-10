@@ -1,0 +1,32 @@
+﻿<div class="pull-right">
+    <button style="height: 40px;" class="btn btn-primary" data-bind="click: setListMode.bind($data, 'addProduct')"> Thêm sản phẩm mới </button>
+</div>
+<div style="margin-bottom: 10px;" class="panel panel-primary">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Sản phẩm</th>
+                <th>Hình ảnh</th>
+                <th>Loại</th>
+            </tr>
+        </thead>
+        <tbody data-bind="foreach: model.products()">
+            <tr>
+                <td style="width:30%;" data-bind="text: $data.ProductName, value: $data.ProductId"></td>
+                <td style="width:30%;">
+                    <img width="100" data-bind="attr: {src: $data.ImageUrl}" />
+                </td>
+                <td data-bind="text: $data.Category, value: $data.CategoryId"></td>
+                <td>
+                    <button class="btn btn-xs btn-success" data-bind="click: jumpToUpdate">Sửa</button>
+                </td>
+                <td>
+                    <button class="btn btn-xs btn-danger" data-bind="click: removeProduct"> Xóa</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+&nbsp;

@@ -1,0 +1,42 @@
+﻿@using Microsoft.AspNet.Identity
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        @Html.AntiForgeryToken()
+        <ul class="nav navbar-nav navbar-right" style="color:#ffffff;">
+            <li class="dropdown" >
+                <a id="userName" style="color:#fff;" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" 
+                   aria-expanded="false">Chào @User.Identity.GetUserName()<span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <a class="mnulist" data-bind="click: setView('cart'), text: 'Giỏ hàng (' +  customerModel.cartCount() + ')'">Giỏ hàng</a>
+                        <a id="thanhtoan" data-bind="click: checkout, enable: customerModel.cartCount() > 0">Thanh toán</a>
+                        <a class="mnulist" data-bind="click: orderHistory">Lịch sử đặt hàng</a>
+                        @Html.ActionLink("Thay đổi mật khẩu", "Manage", "Account", routeValues: null,
+                        htmlAttributes: new { title = "Manage" })
+                        <a href="javascript:document.getElementById('logoutForm').submit()">Đăng xuất</a>
+                    </li>
+                </ul>
+
+            </li>
+        </ul>
+    }
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li class="dropdown">
+            <a style="color:#fff;"  href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Đăng nhập<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+                <li>
+                    
+                        @Html.ActionLink("Đăng nhập", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })
+                    
+                        @Html.ActionLink("Tạo tài khoản", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink"})
+                    
+                </li>
+            </ul>
+        </li>
+    </ul>
+}

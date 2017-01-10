@@ -1,0 +1,72 @@
+﻿<span>Danh sách đơn hàng mà bạn đã đặt</span>
+<div data-bind="foreach: customerModel.filteredOrders().reverse()">
+    <div style="border-style: solid; background-color: #cec5c5; margin: 10px 10px 30px 10px;">
+        <div class="row" style="margin: 10px 10px 10px 10px;">
+            <div class="col-md-6">
+                <div class="panel panel-success">
+                    <div class="panel-heading">
+                        1. Thông tin người nhận <span data-bind="text: '(Tài khoản:' + $data.UserName + ')'"></span>
+                    </div>
+                    <div class="panel-body row">
+                        <table class="table" border="0">
+                            <tr>
+                                <td>Họ tên</td>
+                                <td data-bind="text: $data.ReceiverName"></td>
+                            </tr>
+                            <tr>
+                                <td>Số điện thoại</td>
+                                <td data-bind="text: $data.ReceiverPhoneNumber"></td>
+                            </tr>
+                            <tr>
+                                <td>Địa chỉ người nhận</td>
+                                <td data-bind="text: $data.TradeAdress"></td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="panel panel-success">
+                    <div class="panel-heading">
+                        2. Thông tin đơn hàng <span data-bind="text: '(Mã số ' + $data.OrderId + ', ' + $data.RequestDay + ')'"></span>
+                    </div>
+                    <table class="table" border="0">
+                        <thead>
+                            <tr>
+                                <th>Số lượng</th>
+                                <th>Sản phẩm</th>
+                                <th>Giá</th>
+                                <th class="text-right">Tổng</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- ko foreach: $data.Lines -->
+                            <tr>
+                                <td data-bind="text: $data.Count"></td>
+                                <td data-bind="text: $data.ProductName"></td>
+                                <td data-bind="text: '₫' + $data.Price"></td>
+                                <td class="text-right"
+                                    data-bind="text: '₫' + $data.Count * $data.Price"></td>
+                            </tr>
+                            <!-- /ko -->
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <td colspan="2"></td>
+                                <td>Tổng tiền:</td>
+                                <th class="text-right"
+                                    data-bind="text: $data.TotalCost"></th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div style="height:60px;" class="row">
+            <div class="col-md-2">
+                <span data-bind="css : {'hidden': $data.Status == 1 }" style="height:30px; margin-left: 20px; font-size:30px;" class="label label-danger">Chưa giao</span>
+                <span data-bind="css: {'hidden': $data.Status == 0 }" style="height:30px; margin-left: 20px; font-size:30px;" class="label label-info"><span class="glyphicon glyphicon-ok"></span> Đã giao</span>
+            </div>
+        </div>
+    </div>
+</div>

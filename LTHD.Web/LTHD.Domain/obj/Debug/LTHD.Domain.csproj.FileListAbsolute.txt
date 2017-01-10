@@ -1,0 +1,14 @@
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Domain\bin\Debug\LTHD.Domain.dll.config
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Domain\bin\Debug\LTHD.Domain.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Domain\bin\Debug\LTHD.Domain.pdb
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Domain\bin\Debug\Newtonsoft.Json.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Domain\bin\Debug\System.Net.Http.Formatting.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Domain\bin\Debug\System.Web.Http.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Domain\bin\Debug\System.Web.Http.WebHost.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Domain\bin\Debug\Newtonsoft.Json.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Domain\bin\Debug\System.Net.Http.Formatting.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Domain\bin\Debug\System.Web.Http.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Domain\bin\Debug\System.Web.Http.WebHost.xml
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Domain\obj\Debug\LTHD.Domain.csprojResolveAssemblyReference.cache
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Domain\obj\Debug\LTHD.Domain.dll
+D:\NOW\Các công nghệ mới trong phát triển phần mềm\Loi phat sinh\LTHD.Web\LTHD.Domain\obj\Debug\LTHD.Domain.pdb

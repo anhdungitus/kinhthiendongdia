@@ -1,0 +1,23 @@
+﻿@using LTHD.Web.Models;
+@using Microsoft.AspNet.Identity;
+@{
+    ViewBag.Title = "Quản lý tài khoản";
+}
+
+<div class="col-md-6 col-md-offset-3">
+    <h2>@ViewBag.Title.</h2>
+    <p class="text-success">@ViewBag.StatusMessage</p>
+        @if (ViewBag.HasLocalPassword)
+        {
+            @Html.Partial("_ChangePasswordPartial")
+        }
+        else
+        {
+            @Html.Partial("_SetPasswordPartial")
+        }
+
+        @*<section id="externalLogins">
+            @Html.Action("RemoveAccountList")
+            @Html.Partial("_ExternalLoginsListPartial", new { Action = "LinkLogin", ReturnUrl = ViewBag.ReturnUrl })
+        </section>*@
+</div>
